@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Parijat Kundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **parijatkundu123@gmail.com**
+<h1 align="center">Hi 👋, I'm Parijat Kundu</h1>
+<h3 align="center">AI Engineer | Building Smart Solutions for the Future</h3>
+
+## 🚀 Work
+
+🔭 I’m currently working on  
+[Interactive AI Developer Roadmap for AGRIVEST](https://github.com/ParijatCodes/Interactive-AI-Developer-Roadmap-for-AGRIVEST)  
+A visual and interactive roadmap to guide aspiring AI engineers, especially in AgriTech.
+
+🌱 I’m currently learning  
+Cutting-edge AI frameworks and tools, advanced deep learning, and MLOps best practices.
+
+📫 How to reach me  
+parijatkundu123@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
